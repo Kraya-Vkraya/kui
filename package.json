@@ -1,7 +1,7 @@
 {
   "description": "UI Kit for Kraya 2.0",
   "name": "kui-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.jsx",
   "files": [
     "dist"
