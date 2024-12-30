@@ -13,7 +13,7 @@ module.exports = {
   // Our application entry point.
   entry: "./src/index.tsx",
 
-  mode: "development",
+  mode: "production",
 
   // These rules define how to deal
   // with files with given extensions.
